@@ -33,3 +33,9 @@ Physical activity classification [Physical activity classification using wearabl
 
  
 ## Data Visualisation 
+
+
+
+## Time series 
+ [Time series analysis of fitbit data](https://github.com/RJODRISCOLL/Classification-of-physical-activity-).
+
