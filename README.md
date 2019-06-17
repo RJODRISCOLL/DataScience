@@ -19,10 +19,6 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 
 
-### Regression 
-
-
-
 
 
 
