@@ -15,7 +15,7 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 ### Classification 
 
-Physical activity classification [Physical activity classification using wearable sensors](https://github.com/RJODRISCOLL/Classification-of-physical-activity-).
+[Physical activity classification using wearable sensors](https://github.com/RJODRISCOLL/Classification-of-physical-activity-).
 
 
 
