@@ -33,5 +33,5 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 
 ## Time series 
- [Time series analysis of fitbit data](https://github.com/RJODRISCOLL/Classification-of-physical-activity-).
+ [Time series analysis of fitbit data](https://github.com/RJODRISCOLL/FB-time-series).
 
