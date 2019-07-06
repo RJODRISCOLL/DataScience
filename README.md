@@ -41,4 +41,10 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 
 
+## Statistics 
+
+[The Monty Hall Problem](https://github.com/RJODRISCOLL/Monty-Hall-Problem) 
+
+[Manually Coding Linear Regression](https://github.com/RJODRISCOLL/Linear-regression)
+
 
