@@ -10,6 +10,9 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 ## Data Exploration
 
+[Exploring the App store and Android store](https://github.com/RJODRISCOLL/Exploratory-analysis-of-apps-store-data/tree/master).
+
+
 ## Data Visualisation 
 
 
