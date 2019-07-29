@@ -1,7 +1,7 @@
-# DataScience
+# DS/DA Projects
 
 
-This repository is a portfolio of projects. The projects presented here represent a combination of academic projects, self learning and projects completed for fun. The analyses below are completed in R and Python. 
+This repository is a portfolio of projects completed in my spare time. The projects presented here represent a combination of academic projects, self learning and projects completed for fun. The analyses below are completed in R and Python. 
 
 
 The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
