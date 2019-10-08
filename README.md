@@ -35,9 +35,7 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 [Physical activity classification using wearable sensors](https://github.com/RJODRISCOLL/Classification-of-physical-activity-).
 
-
-
-
+[Diabetes classification in Pima indians](https://github.com/RJODRISCOLL/Diabetes-classification).
 
 
 ## Language Processing 
