@@ -10,7 +10,7 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 ## Data Exploration
 
-[Exploring the App store and Android store](https://github.com/RJODRISCOLL/Exploratory-analysis-of-apps-store-data/tree/master).
+[Exploring the App store and Android store](https://github.com/RJODRISCOLL/Exploratory-analysis-of-apps-store-data/tree/master)
 
 
 ## Data Visualisation 
@@ -18,7 +18,7 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 
 ## Time series 
- [Time series analysis of fitbit data](https://github.com/RJODRISCOLL/FB-time-series).
+ [Time series analysis of fitbit data](https://github.com/RJODRISCOLL/FB-time-series)
 
 
 
@@ -27,15 +27,16 @@ The R portfolio is located on my [RPubs page](https://rpubs.com/rudriscube).
 
 ## Machine Learning
 
+[Sklearn implementations](https://github.com/RJODRISCOLL/sklearn)
 
 
 
 
 ### Classification 
 
-[Physical activity classification using wearable sensors](https://github.com/RJODRISCOLL/Classification-of-physical-activity-).
+[Physical activity classification using wearable sensors](https://github.com/RJODRISCOLL/Classification-of-physical-activity-)
 
-[Diabetes classification in Pima indians](https://github.com/RJODRISCOLL/Diabetes-classification).
+[Diabetes classification in Pima indians](https://github.com/RJODRISCOLL/Diabetes-classification)
 
 
 ## Language Processing 
