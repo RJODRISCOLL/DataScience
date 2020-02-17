@@ -34,5 +34,7 @@ This repository is a portfolio of projects completed in my spare time. The proje
 
 [Manually Coding Linear Regression](https://github.com/RJODRISCOLL/Linear-regression)
 
+[Manually Coding Neural Network](https://github.com/RJODRISCOLL/Math-with-py/tree/master/Neural%20Network)
+
 [Mathematics with Python](https://github.com/RJODRISCOLL/Math-with-py)
 
