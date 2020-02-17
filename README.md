@@ -34,5 +34,5 @@ This repository is a portfolio of projects completed in my spare time. The proje
 
 [Manually Coding Linear Regression](https://github.com/RJODRISCOLL/Linear-regression)
 
-[Mathematics with Python] (https://github.com/RJODRISCOLL/Math-with-py)
+[Mathematics with Python](https://github.com/RJODRISCOLL/Math-with-py)
 
