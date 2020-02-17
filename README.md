@@ -26,7 +26,7 @@ This repository is a portfolio of projects completed in my spare time. The proje
 ## Language Processing 
 [NLP with Twitter Data, Exploring #PhDchat](https://github.com/RJODRISCOLL/NLP-with-twitter-data)
 
-[NLP at christmas] (https://github.com/RJODRISCOLL/text-analysis-xmas)
+[NLP at christmas](https://github.com/RJODRISCOLL/text-analysis-xmas)
 
 ## Statistics and Mathematics 
 
