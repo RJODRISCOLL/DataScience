@@ -16,11 +16,11 @@ This repository is a portfolio of projects completed in my spare time. The proje
 
 ## Machine Learning
 
-[Sklearn implementations](https://github.com/RJODRISCOLL/sklearn)
-
 [Physical activity classification using wearable sensors](https://github.com/RJODRISCOLL/Classification-of-physical-activity-)
 
 [Diabetes classification in Pima indians](https://github.com/RJODRISCOLL/Diabetes-classification)
+
+[Sklearn/TF/Keras implementations](https://github.com/RJODRISCOLL/sklearn)
 
 
 ## Language Processing 
