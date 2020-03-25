@@ -16,6 +16,8 @@ This repository is a portfolio of projects completed in my spare time. The proje
 
 ## Machine Learning
 
+[Unsupervised clustering analysis of a large dataset of commonly consumed western foods.](https://github.com/RJODRISCOLL/Clustering-of-foods)
+
 [Physical activity classification using wearable sensors](https://github.com/RJODRISCOLL/Classification-of-physical-activity-)
 
 [Diabetes classification in Pima indians](https://github.com/RJODRISCOLL/Diabetes-classification)
