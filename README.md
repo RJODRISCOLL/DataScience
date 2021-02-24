@@ -11,8 +11,10 @@ This repository is a portfolio of projects completed in my spare time. The proje
 [Exploring the App store and Android store](https://github.com/RJODRISCOLL/Exploratory-analysis-of-apps-store-data/tree/master)
 
 ## Time series 
- [Time series analysis of fitbit data](https://github.com/RJODRISCOLL/FB-time-series)
 
+[Time series forecasting with LSTM] (https://github.com/RJODRISCOLL/Time-series-forecasting-) 
+
+[Time series analysis of fitbit data](https://github.com/RJODRISCOLL/FB-time-series)
 
 ## Machine Learning
 
