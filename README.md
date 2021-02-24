@@ -12,7 +12,7 @@ This repository is a portfolio of projects completed in my spare time. The proje
 
 ## Time series 
 
-[Time series forecasting with LSTM] (https://github.com/RJODRISCOLL/Time-series-forecasting-) 
+[Time series forecasting with LSTM](https://github.com/RJODRISCOLL/Time-series-forecasting-) 
 
 [Time series analysis of fitbit data](https://github.com/RJODRISCOLL/FB-time-series)
 
