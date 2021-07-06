@@ -12,13 +12,13 @@ This repository is a portfolio of projects completed in my spare time. The proje
 
 ## Time series 
 
+[A GAN apporach for the generation of accelerometer data](https://github.com/rjodriscoll/TimeGanBar)
+
 [Time series forecasting with LSTM](https://github.com/RJODRISCOLL/Time-series-forecasting-) 
 
 [Time series analysis of fitbit data](https://github.com/RJODRISCOLL/FB-time-series)
 
 ## Machine Learning
-
-[A GAN apporach for the generation of accelerometer data](https://github.com/rjodriscoll/TimeGanBar)
 
 [Unsupervised clustering analysis of a large dataset of commonly consumed western foods.](https://github.com/RJODRISCOLL/Clustering-of-foods)
 
