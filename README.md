@@ -18,6 +18,8 @@ This repository is a portfolio of projects completed in my spare time. The proje
 
 ## Machine Learning
 
+[A GAN apporach for the generation of accelerometer data](https://github.com/rjodriscoll/TimeGanBar)
+
 [Unsupervised clustering analysis of a large dataset of commonly consumed western foods.](https://github.com/RJODRISCOLL/Clustering-of-foods)
 
 [Physical activity classification using wearable sensors](https://github.com/RJODRISCOLL/Classification-of-physical-activity-)
