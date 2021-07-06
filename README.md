@@ -29,11 +29,6 @@ This repository is a portfolio of projects completed in my spare time. The proje
 [Sklearn/TF/Keras implementations](https://github.com/RJODRISCOLL/sklearn)
 
 
-## Language Processing 
-[NLP with Twitter Data, Exploring #PhDchat](https://github.com/RJODRISCOLL/NLP-with-twitter-data)
-
-[NLP at christmas](https://github.com/RJODRISCOLL/text-analysis-xmas)
-
 ## Statistics and Mathematics 
 
 [The Monty Hall Problem](https://github.com/RJODRISCOLL/Monty-Hall-Problem) 
